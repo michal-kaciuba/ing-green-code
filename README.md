@@ -1,3 +1,4 @@
 # Zielona Tesla za Zielony kod - rozwiązanie
 
-[![Known Vulnerabilities](https://snyk.io/test/github/MKaciuba/ing-green-code/badge.svg)](https://snyk.io/test/github/MKaciuba/ing-green-code)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=MKaciuba_ing-green-code&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=MKaciuba_ing-green-code)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=MKaciuba_ing-green-code&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=MKaciuba_ing-green-code)
